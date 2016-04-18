@@ -2,6 +2,7 @@
 This is a collection of analysis from my learning of data science related topic.
 
 ## Repository Structure
+```
 .
 ├── README.md
 ├── machine-learning
@@ -12,3 +13,4 @@ This is a collection of analysis from my learning of data science related topic.
     └── one-way-anova-example.ipynb
 
 2 directories, 5 files
+```
